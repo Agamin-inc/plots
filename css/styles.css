@@ -82,8 +82,7 @@ p{
 }
 
 .noida-img-2{
-/*   background-image: url("images/noida-circle.png"); */
-  background-color: black;
+  background-image: url("images/noida-circle.png");
   background-repeat: no-repeat;
   background-position: center;
    /* background-size: cover; */
